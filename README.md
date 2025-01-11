@@ -20,7 +20,7 @@ This project analyzes sales data from 2017 to 2019 to uncover trends, evaluate p
   - **Sales Products**: Product types and codes.
   - **Sales Dates**: Time dimension for year and month-wise analysis.
 - Below is the Entity Relationship Diagram (ERD):  
-  ![ERD Image](./images/ERD.png)
+![2025-01-10 19 58 26 985  Gemoo Snap](https://github.com/user-attachments/assets/0f5165af-b7b6-4f2b-bf3a-ba6b2950ee0d)
 
 ---
 
