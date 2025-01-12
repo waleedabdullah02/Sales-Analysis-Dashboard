@@ -27,7 +27,7 @@ This project analyzes sales data from 2017 to 2019 to uncover trends, evaluate p
 ### **Insights from the Dashboard**
 
 #### **1. Revenue by Zone**
-- ![Revenue by Zone](./images/revenue_by_zone.png)
+- ![revenue by xones](https://github.com/user-attachments/assets/7c2ac5c3-db60-40a2-9b08-9cc7a99c9804)
 - The **North Zone** dominates with 68.5% of total revenue.
 - The **Central Zone** contributed 18.6%, while the **South Zone** accounted for 12.7%.
 - **Insight**: Focus marketing efforts on the **North Zone** to maximize revenue generation.
