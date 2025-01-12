@@ -35,7 +35,8 @@ This project analyzes sales data from 2017 to 2019 to uncover trends, evaluate p
 ---
 
 #### **2. Revenue Trends**
-![trend](https://github.com/user-attachments/assets/f46896ee-b00a-40f5-8cf7-151bd2a2bb0e)- Revenue growth peaked in **mid-2018** and declined slightly toward 2020.
+![trend](https://github.com/user-attachments/assets/f46896ee-b00a-40f5-8cf7-151bd2a2bb0e)
+- Revenue growth peaked in **mid-2018** and declined slightly toward 2020.
 - **Insight**: Analyze the factors driving growth in 2018 and strategize to replicate them in upcoming years.
 
 ---
@@ -57,14 +58,14 @@ This project analyzes sales data from 2017 to 2019 to uncover trends, evaluate p
 ---
 
 #### **5. Profit Margin Contribution %**
-- ![Profit Margin Contribution](./images/profit_margin_contribution.png)
+![profit%](https://github.com/user-attachments/assets/1d0faf51-9d0a-42dc-9927-9343e3fc14b6)
 - **Delhi NCR** alone contributes nearly 48% to the overall profit margin.
 - **Insight**: Maintain a strong presence in **Delhi NCR** while identifying opportunities to boost profitability in lower-performing regions.
 
 ---
 
 #### **6. Customer Analysis**
-- ![Customer Insights](./images/customer_insights.png)
+![customers](https://github.com/user-attachments/assets/58be104e-06de-4826-ab7d-a1d103e36a47)
 - Top customers include **Electricalsara Stores** and **Nixon**, which contribute significantly to revenue.
 - **Insight**: Develop loyalty programs and personalized offers to retain these high-value customers.
 
