@@ -1,7 +1,8 @@
 # **Sales Analysis Dashboard**
 
 ### **Project Overview**
-This project analyzes sales data from 2017 to 2019 to uncover trends, evaluate performance metrics, and provide actionable insights. The dashboard was created in **Power BI** and includes key metrics such as revenue, profit, and sales quantity, segmented across zones, markets, and customer details.
+This project analyzes sales data from 2017 to 2020 using **SQL for Exploratory Data Analysis (EDA)** and **Power BI** for dashboard creation. It uncovers trends, evaluates performance metrics, and provides actionable insights. The dashboard showcases metrics like revenue, profit, and sales quantity, segmented across zones, markets, and customer details.
+
 
 ---
 
