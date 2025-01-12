@@ -50,8 +50,7 @@ This project analyzes sales data from 2017 to 2019 to uncover trends, evaluate p
 ---
 
 #### **4. Profit % by Markets**
-- ![Profit Percentage by Markets](./images/profit_by_markets.png)
-- Markets like **Delhi NCR** and **Mumbai** have the highest profit margins at 48.46% and 19.76%.
+![profitbymarket](https://github.com/user-attachments/assets/1fd3921e-e6d9-4f02-b14c-5f89a98b86a9)
 - **Bengaluru** has a negative profit margin of -20.8%, indicating inefficiencies.
 - **Insight**: Optimize operations in **Bengaluru** and other underperforming markets.
 
@@ -59,7 +58,7 @@ This project analyzes sales data from 2017 to 2019 to uncover trends, evaluate p
 
 #### **5. Profit Margin Contribution %**
 ![profit%](https://github.com/user-attachments/assets/1d0faf51-9d0a-42dc-9927-9343e3fc14b6)
-- **Delhi NCR** alone contributes nearly 48% to the overall profit margin.
+- Markets like **Delhi NCR** and **Mumbai** have the highest profit margins at 48.46% and 19.76%.
 - **Insight**: Maintain a strong presence in **Delhi NCR** while identifying opportunities to boost profitability in lower-performing regions.
 
 ---
@@ -85,11 +84,8 @@ This project analyzes sales data from 2017 to 2019 to uncover trends, evaluate p
 
 ---
 
-### **How to View the Dashboard**
-To fully interact with the dashboard:
-- Download the Power BI file from the repository.
-- Use Power BI Desktop to explore and filter data across various dimensions.
+### **Dashboard**
+![2025-01-12 17 32 19 729  Gemoo Snap](https://github.com/user-attachments/assets/7b13d21d-2d86-4e77-a34c-f146f402a6fa)
+![2025-01-12 17 32 10 546  Gemoo Snap](https://github.com/user-attachments/assets/361e1d76-5164-4994-bd7d-21de751fe5c1)
 
----
 
-Replace the placeholders like `./images/<file_name>.png` with the actual paths of your images. Let me know if you need help uploading images to your GitHub repository or any further changes!
