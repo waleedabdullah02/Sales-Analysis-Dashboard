@@ -27,7 +27,7 @@ This project analyzes sales data from 2017 to 2019 to uncover trends, evaluate p
 ### **Insights from the Dashboard**
 
 #### **1. Revenue by Zone**
-- ![revenue by xones](https://github.com/user-attachments/assets/7c2ac5c3-db60-40a2-9b08-9cc7a99c9804)
+![revenue by xones](https://github.com/user-attachments/assets/7c2ac5c3-db60-40a2-9b08-9cc7a99c9804)
 - The **North Zone** dominates with 68.5% of total revenue.
 - The **Central Zone** contributed 18.6%, while the **South Zone** accounted for 12.7%.
 - **Insight**: Focus marketing efforts on the **North Zone** to maximize revenue generation.
@@ -35,14 +35,13 @@ This project analyzes sales data from 2017 to 2019 to uncover trends, evaluate p
 ---
 
 #### **2. Revenue Trends**
-- ![Revenue Trend](./images/revenue_trend.png)
-- Revenue growth peaked in **mid-2018** and declined slightly toward 2020.
+![trend](https://github.com/user-attachments/assets/f46896ee-b00a-40f5-8cf7-151bd2a2bb0e)- Revenue growth peaked in **mid-2018** and declined slightly toward 2020.
 - **Insight**: Analyze the factors driving growth in 2018 and strategize to replicate them in upcoming years.
 
 ---
 
 #### **3. Revenue by Markets**
-- ![Revenue by Markets](./images/revenue_by_markets.png)
+![revenue mAEK](https://github.com/user-attachments/assets/3035fb40-b7fd-4931-9b5a-561de2ac02d8)
 - **Delhi NCR**: Top-performing market with $195M in revenue.
 - **Mumbai** and **Ahmedabad** follow closely with $150M and $123M, respectively.
 - **Insight**: Prioritize resources and investments in these high-performing markets.
